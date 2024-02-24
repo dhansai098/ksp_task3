@@ -1,0 +1,59 @@
+.team{
+    color: blue ;
+    font-family: cursive;
+    font-size: xx-large;
+    background-color: whitesmoke;
+    text-align: center;
+    border: 100px;
+}
+.members{
+    color: aqua ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(3, 65, 252);
+    font-size: x-large;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+    
+}
+#bat{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+#bow{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+#wic{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 10px;
+    padding:  10px;
+}
+#all{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+.about{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+.pp{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 20px;
+}
